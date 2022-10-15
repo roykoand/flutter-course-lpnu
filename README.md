@@ -2,7 +2,7 @@
 
 OS version: `Ubuntu 20.04.4 LTS`
 
-## Homework №1 (deadline: 21.09.2022)
+## Homework №1
 
 ### TODO:
 
@@ -12,12 +12,6 @@ OS version: `Ubuntu 20.04.4 LTS`
   - [x] Login page: User can fill the `<first name>` and the `<last name>`.
   - [x] Home page: It displays "Вітаю `<first name>` `<last name>`"
 
-### Run:
-
-```
-$ cd hw1 && flutter run
-```
-
 ### Demo:
 
-![HW1 demo gif](/hw1/demo.gif)
+![HW1 demo gif](/demo/demo.gif)
