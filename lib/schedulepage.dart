@@ -16,7 +16,7 @@ class SchedulePage extends StatelessWidget {
           margin: const EdgeInsets.all(20),
           child: Center(
             child: Text(
-              'You hava picked $groupName group',
+              'You have picked $groupName group',
               style: const TextStyle(fontSize: 45),
             ),
           )),
