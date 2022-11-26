@@ -1,0 +1,57 @@
+KB-41:
+  Mo:
+    1: Computer Science
+    3: Operational Systems
+  Tu:
+    2: Compilers
+    5: Networking
+  We:
+    3: English
+    4: Data Science
+  Th:
+    2: Data Engineering
+    3: Cloud Platforms
+  Fr:
+    2: Numerical Methods
+KB-42:
+  Mo:
+    2: Operational Systems
+    6: Numerical methods
+  Tu:
+    2: Networking
+  We:
+    3: Compilers
+    4: Data Science
+  Th:
+    2: Data Engineering
+    3: Cloud Platforms
+  Fr:
+    2: English
+KB-43:
+  Mo:
+    1: Networking
+    2: Numerical methods
+  Tu:
+    1: Operatinal systems
+  We:
+    1: Compilers
+  Th:
+    1: English
+    2: Cloud Platforms
+  Fr:
+    2: Data Engineering
+KB-44:
+  Mo:
+    3: Numerical methods
+    5: Networking
+  Tu:
+    1: C++
+    7: Compilers
+  We:
+    3: Operatinal systems
+  Th:
+    1: Cloud Platforms
+    2: English
+  Fr:
+    2: Data Engineering
+    3: Spanish
